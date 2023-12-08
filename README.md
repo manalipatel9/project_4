@@ -12,4 +12,4 @@ or 0.80 R-squared. (5 points): NO
 Sources: Current homework assignments, https://www.statology.org/sklearn-classification-report/, https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79
 
 
-Tableau link: https://public.tableau.com/app/profile/manali.patel2222/viz/project_4_17019094723970/hazardous?publish=yes
+Tableau link: https://public.tableau.com/app/profile/manali.patel2222/viz/project4visuals/diameter?publish=yes
