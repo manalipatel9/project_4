@@ -1,15 +1,11 @@
 # project_4
 
-Current status of supervised_neo_draft1 as of 12/4
-
-Data Model Implementation (25 points)
-A Python script initializes, trains, and evaluates a model (10 points): YES
-The data is cleaned, normalized, and standardized prior to modeling (5 points): YES
-The model utilizes data retrieved from SQL or Spark (5 points): NO
-The model demonstrates meaningful predictive power at least 75% classification accuracy: YES 
-or 0.80 R-squared. (5 points): NO
-
-Sources: Current homework assignments, https://www.statology.org/sklearn-classification-report/, https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79
-
+Original dataset: https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
 
 Tableau link: https://public.tableau.com/app/profile/manali.patel2222/viz/project4visuals/diameter?publish=yes
+
+Visualizations were created using Tableau and matplotlib. CSV was downloaded from Kaggle and imported into a SQL database. Our machine learning model connects to our SQL database via SQLite.
+
+Other libraries used: Scikit-learn, Python Pandas.
+
+Citations: Rebecca, Michael, and Rebecca did not require citations for their code. Mary required extensive citations and included links to her many sources directly in her code.
