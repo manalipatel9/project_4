@@ -8,4 +8,4 @@ Visualizations were created using Tableau and matplotlib. CSV was downloaded fro
 
 Other libraries used: Scikit-learn, Python Pandas.
 
-Citations: Rebecca, Michael, and Rebecca did not require citations for their code. Mary required extensive citations and included links to her many sources directly in her code.
+Citations: Rebecca, Michael, and Manali did not require citations for their code. Mary required extensive citations and included links to her many sources directly in her code.
