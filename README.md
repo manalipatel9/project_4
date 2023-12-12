@@ -4,7 +4,7 @@ Original dataset: https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-
 
 Tableau link: https://public.tableau.com/app/profile/manali.patel2222/viz/project4visuals/diameter?publish=yes
 
-Visualizations were created using Tableau and matplotlib. CSV was downloaded from Kaggle and imported into a SQL database. Our machine learning model connects to our SQL database via SQLite.
+Visualizations were created using Tableau and matplotlib. CSV was downloaded from Kaggle and imported into a SQL database. Our supervised machine learning model connects to our SQL database via SQLite. "images" folder contains screenshots of the code used for the machine learning portion.
 
 Other libraries used: Scikit-learn, Python Pandas.
 
